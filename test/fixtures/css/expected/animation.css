@@ -1,0 +1,6 @@
+* {
+  animation: 3s linear 1s slidein;
+  animation-iteration-count: 1;
+  animation-duration: 0;
+  animation-delay: 0;
+}

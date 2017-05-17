@@ -1,0 +1,22 @@
+{
+  "name": "postcss-no-animate",
+  "version": "0.1.0",
+  "description": "suppress animation properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "postcss-plugin",
+    "animation"
+  ],
+  "author": "quramy",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^6.0.1",
+    "postcss-value-parser": "^3.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}

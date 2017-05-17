@@ -1,0 +1,5 @@
+* {
+  transition: color 1s linear;
+  transition-duration: 0;
+  transition-delay: 0;
+}
